@@ -15,7 +15,7 @@ This project was made with the aim of practicing Tailwind CSS.
 - First clone the repository into your machine;
 
 ```
-git clone git@github.com:GabiNamu/Tryunfo.git
+git clone git@github.com:GabiNamu/nike.git
 ```
 
 - Go to the project directory:
