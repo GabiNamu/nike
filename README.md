@@ -1,5 +1,6 @@
 # Nike
-This project was made with the aim of practicing Tailwind CSS.
+### This project was made with the aim of practicing Tailwind CSS.
+(later I intend to make the features)
 
 <div align="center" display="inline">
 <img src="./src/assets/img-github/hero.png" alt="logo" width="400px" height="250px">
